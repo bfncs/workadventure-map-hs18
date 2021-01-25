@@ -96,7 +96,7 @@
                 {
                  "name":"playAudio",
                  "type":"string",
-                 "value":"https:\/\/bfncs.github.io\/workadventure-map-ms\/sounds\/slime.mp3"
+                 "value":"sounds\/slime.mp3"
                 }],
          "type":"tilelayer",
          "visible":true,

@@ -1,0 +1,10 @@
+{
+  "name": "workadventure-map-h18",
+  "private": true,
+  "scripts": {
+    "start": "echo 'Open browser at https://127.0.0.1:8080/'; http-server --cors -S -s"
+  },
+  "devDependencies": {
+    "http-server": "^0.12.3"
+  }
+}

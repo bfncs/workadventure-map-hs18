@@ -78,7 +78,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/bfncs.github.io\/workadventure-map-ms\/munchkin"
+                 "value":"https:\/\/bfncs.github.io\/workadventure-map-ms\/sites\/munchkin\/"
                 }],
          "type":"tilelayer",
          "visible":true,
